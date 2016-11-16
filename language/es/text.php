@@ -803,7 +803,7 @@ $hesklang['thist7']='<li class="smaller">%s | ticket creado por %s</li>'; // %s 
 $hesklang['elocked']='Este ticket se ha bloqueado o eliminado';
 $hesklang['nti']='+ Nuevo ticket';
 $hesklang['nti2']='Insertar un nuevo ticket';
-$hesklang['nti3']='Utilice este formulario para crear un nuevo ticket en un nombre de cliente. Entre la informaci&oacute;n de lo <i>cliente</i> en la forma (nombre de cliente, el cliente de correo electr&oacute;nico, ...) y NO su nombre! Ticket ser&aacute; creado como si fuera enviado por el propio cliente.';
+$hesklang['nti3']='Utilice este formulario para crear un nuevo ticket SAC';
 $hesklang['addop']='Opciones';
 $hesklang['seno']='Enviar notificaci&oacute;n por correo electr&oacute;nico al cliente';
 $hesklang['otas']='Mostrar el ticket despu&eacute;s del env&iacute;o';
